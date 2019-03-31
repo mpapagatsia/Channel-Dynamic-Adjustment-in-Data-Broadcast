@@ -11,3 +11,5 @@ The paper consists of 3 algorithms:
 The S-RxW/SL algorithm considers the request number of each item and its longest waiting time to evaluate the Weight directly. The data size and the request deadline are reflected by system loss SL. SL is the number of lost requests if the server broadcasts d_i at system time t.
 
 We conducted a main.py where we run algorithm1.py (S-RxW/SL).
+
+Algorithms 1 and 3 are completed. Algorithm 2 require some fix on the kodama algorithm.
